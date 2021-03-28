@@ -1,0 +1,16 @@
+body {
+    background-color: lightsteelblue;
+  }
+
+img {
+    width: 500px;
+}
+
+h3 {
+    font-style: italic;
+    color: darkred;
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
